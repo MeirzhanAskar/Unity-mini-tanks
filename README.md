@@ -8,5 +8,5 @@ The first powerup is health. When you collect it, your health will increase +1. 
 Second powerup is the shield. When collected, it gives you 8 seconds immune to any damage. When it's being used, the shield status appears on the player.
 Each power up has 10 second time before disapearing.
 When one of the players dies, the game will be over and it will announce the winner.
-To restart the game press <R>
-To toggle on or off the power up press <M>. (It's set on by the default)
+To restart the game press R.
+To toggle on or off the power up press M. (It's set on by the default)
